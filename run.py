@@ -122,16 +122,16 @@ def saya():
 	elif back == "t":
 		print "come back ya bos :D byee"
 	else:
-		print "belum input ketik lagi python2 ponsel.py"
+		print "belum input ketik lagi python2 run.py"
 	
 def menu():
 	
 	print "\033[93m$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"
 	print "$                                    $"
-	print "$    coded by : Mr.w0n63d4n          $"
-	print "$    Instagram: @riezzky_maulana     $"
-	print "$    youtube  : wongedan official    $"
-	print "$    whatsapp : 085861185074         $"
+	print "$    Coded by : SadCode Official     $"
+	print "$    Instagram: @sadcode_org         $"
+	print "$    website  : sadcode.org          $"
+	print "$    fanspage : fb.com/sadcode.org   $"
 	print "$                                    $"
 	print "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$\033[0m"
 	print "\033[92m"
@@ -221,7 +221,7 @@ os.system ('clear')
 os.system ("toilet -f banner --gay jomblo")
 print "\033[92m"
 login = raw_input("masukan passwordnya bosku :")
-if login == "wongedan" :
+if login == "sadcode" :
 	menu()
 else:
 	print "\033[91mpassword salah bosku\033[0m"
