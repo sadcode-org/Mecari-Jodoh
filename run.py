@@ -215,7 +215,7 @@ def phone():
 	print "======================="
 	print "______________________________"
 	tanya()
-#yopie rizqi maulana
+#VanGans - SadCode Official
 
 os.system ('clear')
 os.system ("toilet -f banner --gay jomblo")
